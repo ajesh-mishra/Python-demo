@@ -6,4 +6,4 @@ These are a collection of Jupyter Notebook slides demonstrating various python c
 - Finally, enable the RISE extension in your Jupyter Notebook `jupyter-nbextension install rise --py --sys-prefix`
 - When you open your Jupyter Notebook, save your code and click on `Enter\Exit RISE Slideshow` button on the right of command palette button in the tool menu.
 
-![](https://github.com/ajesh-mishra/Python-demo/blob/master/adding_rise-300x185.png)
+![RISE Button](https://github.com/ajesh-mishra/Python-demo/blob/master/adding_rise-300x185.png)
